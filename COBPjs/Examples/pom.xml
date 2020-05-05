@@ -129,6 +129,7 @@
     <modules>
         <module>Room</module>
         <module>GOL</module>
+		<module>ROS</module>
     </modules>
 
 </project>
