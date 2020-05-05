@@ -1,1 +1,2 @@
-# Code appendix for the paper "Context-Oriented Behavioral Programming Paradigm"
+# "Context-Oriented Behavioral Programming Paradigm"
+## Code appendix
